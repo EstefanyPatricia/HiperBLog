@@ -1,3 +1,24 @@
-body{
-text-align: center;
+body
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+    margin: 0 auto;
+    padding: 0%;
+}
+
+#container
+{
+    text-align: center;
+    width: 70%;
+    border: 1mm solid coral;
+    padding: 1%;
+    margin: 0% auto;
+
+}
+
+#texto h1
+{
+    text-align: center;
+    font-size: 30px ;
 }
