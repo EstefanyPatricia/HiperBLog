@@ -7,6 +7,23 @@ body
     padding: 0%;
 }
 
+#cabecera
+{
+    background: rgb(30, 30, 31);
+    box-shadow: 30px 7px 28px 5px rgba(215,62,26,0.75);
+    color: rgb(247, 235, 235);
+    font-weight: bolder;
+    margin: 0px;
+    padding: 0.5em;
+}
+
+#container #Datos
+{
+    margin: 0 0 0 1em;
+    font-weight:  normal;
+    font-size: 0.8em;
+}
+
 #container
 {
     text-align: center;
