@@ -53,4 +53,7 @@ body
 {
     background: #e5968a;
     padding: 1cm;
+    border: 5px;
+    margin: 2px;
+    font-weight: bolder;
 }
