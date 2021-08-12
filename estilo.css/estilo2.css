@@ -59,10 +59,10 @@ body
 }
 #footer
 {
-    background: rgb(30, 30, 31);
-    color: rgb(247, 235, 235);
+    background: #d8604e;
+    color: rgb(243, 240, 240);
     font-weight: lighter;
-    font-size: small;
+    font-size: smala;
     margin: 0px;
     padding: 0.5px;
 }
