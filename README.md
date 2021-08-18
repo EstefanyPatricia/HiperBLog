@@ -1,10 +1,7 @@
 # HiperBLog
 bloc para el curso del git y github de platzi
 
-#HyperBlog
-*Blog para el curso del git y github de platzi*
-
-###Temas
+Temas
 - Comando basicos de git
 - Uso de recreacion de ramas
 - Flujos de trabajo
