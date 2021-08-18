@@ -10,8 +10,15 @@ Kati sabes que te amo con todo mi corazon que eres todo para mi hermosura ♥
 
 ♥ Kati mi amooor eres MARAVILLOSA CARAJO <3 
 
+<<<<<<< HEAD
 Aporte de Diego... 
 
 Exp 2
 
 Exp 1
+=======
+Aporte de Diego...git 
+
+
+Exp 2 
+>>>>>>> 5f8adc8 (Exp 2)
